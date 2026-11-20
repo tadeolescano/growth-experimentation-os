@@ -1,0 +1,4 @@
+id,stage,leak_or_observation,hypothesis,primary_metric,guardrail_metric,baseline,mde_relative,sample_per_variant,weeks,impact,confidence,ease,ice,status,owner,result
+EXP-001,acquisition,,,,,,,,,,,,,idea,,
+EXP-002,activation,,,,,,,,,,,,,idea,,
+EXP-003,retention,,,,,,,,,,,,,idea,,
